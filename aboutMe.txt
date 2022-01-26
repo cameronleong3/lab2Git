@@ -1,0 +1,5 @@
+name: Cameron Leong
+major: CSEN
+year: senior
+hobbies: disc golf, ultimate frisbee, onewheeling
+courses: 174, 175, 195, 354
